@@ -1,0 +1,3 @@
+[submodule "intro-to-machine-learning"]
+	path = intro-to-machine-learning
+	url = git@github.com:zkan/intro-to-machine-learning.git
