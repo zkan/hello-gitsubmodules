@@ -1,3 +1,6 @@
 [submodule "intro-to-machine-learning"]
 	path = intro-to-machine-learning
 	url = git@github.com:zkan/intro-to-machine-learning.git
+[submodule "tictactoe"]
+	path = tictactoe
+	url = git@github.com:zkan/tictactoe.git
